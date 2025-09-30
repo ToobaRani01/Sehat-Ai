@@ -13,11 +13,7 @@ Each module is fully reproducible and runs seamlessly via a simple setup using M
     
 ## video tutorial
 
-<video width="640" height="360" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[Click here  for Project Demonstration](https://youtu.be/TZudR5g8gD4)
 ## ⚙️ Installation Guide
 
 We recommend using **Miniconda** to manage environment.
