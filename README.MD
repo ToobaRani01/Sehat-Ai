@@ -12,7 +12,12 @@ The project features three modular, beginner-friendly components:
 Each module is fully reproducible and runs seamlessly via a simple setup using Miniconda and Streamlit, with pre-downloaded datasets and minimal configuration required
     
 ## video tutorial
-[Watch the video](video.mp4)
+
+<video width="640" height="360" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## ⚙️ Installation Guide
 
 We recommend using **Miniconda** to manage environment.
