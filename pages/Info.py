@@ -271,4 +271,10 @@ st.markdown("""
 <h2>Important Note</h2>
 <p>SehatAI is a support tool, not a replacement for a doctor. Always consult a medical professional for final advice and treatment.</p>
 </div>
+
+<div class="card">
+<h2>Support</h2>
+<p>Special thanks to tech4health organization for providing us with extremely valuable domain insights and supporting us for the project</p>
+</div>
+
 """, unsafe_allow_html=True)
