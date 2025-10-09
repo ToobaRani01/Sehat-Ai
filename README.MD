@@ -13,7 +13,7 @@ Each module is fully reproducible and runs seamlessly via a simple setup using M
     
 ## video tutorial
 
-[Click here  for Project Demonstration](https://youtu.be/TZudR5g8gD4)
+[Click here  for Project Demonstration](https://www.youtube.com/watch?v=xuM9whTpRYQ&t=1s)
 ## ⚙️ Installation Guide
 
 We recommend using **Miniconda** to manage environment.
