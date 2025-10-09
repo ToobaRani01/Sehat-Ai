@@ -10,6 +10,10 @@ The project features three modular, beginner-friendly components:
 
 
 Each module is fully reproducible and runs seamlessly via a simple setup using Miniconda and Streamlit, with pre-downloaded datasets and minimal configuration required
+
+### Working URL for experiene:
+
+https://uraancompetitionprototype004.streamlit.app
     
 ## video tutorial
 
