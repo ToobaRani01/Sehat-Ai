@@ -69,7 +69,7 @@ No need to download manually — all datasets are pre-downloaded and placed in t
     - Output: Medicine name and its purpose in English and Urdu.
     - Powered by Mistral AI API.
     🔑 Mistral API Setup
-    - API expires on 1st November by default.
+    - API expires on 31 Decemberss by default.
     - To extend usage:
     - Visit Mistral Console
     - Log in and create your own API key.
