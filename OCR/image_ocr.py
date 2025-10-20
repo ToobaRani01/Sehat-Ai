@@ -5,7 +5,8 @@ from mistralai import Mistral
 
 # This function encapsulates the OCR logic to be called from the UI.
 def process_ocr_from_image_bytes(image_bytes):
-    API = "9qv7uViZZ9mQBNqoHHRkT108e1krnQHT"
+    # expire date is 31 december 2025
+    API = "QS2s8StY5FAdMBhfRJZ7zP5AXPLzGmkF"
     client = Mistral(api_key=API)
 
     # Encode the image to base64
