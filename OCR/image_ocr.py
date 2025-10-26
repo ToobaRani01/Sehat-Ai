@@ -29,7 +29,7 @@ def process_ocr_from_image_bytes(image_bytes):
     
     
 def get_medicine_info_and_translate(medicine_name):
-    API = "9qv7uViZZ9mQBNqoHHRkT108e1krnQHT"
+    API = "QS2s8StY5FAdMBhfRJZ7zP5AXPLzGmkF"
     client = Mistral(api_key=API)
 
     # Clear and strict prompt for consistent formatting
